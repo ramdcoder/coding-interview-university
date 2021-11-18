@@ -1248,6 +1248,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 - [ ] Cracking the Facebook Coding Interview:
     - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
+    - [ ] [Java Programs](https://www.flowerbrackets.com/category/java-programs/)
 - Prep Courses:
     - [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
